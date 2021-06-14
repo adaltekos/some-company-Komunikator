@@ -7,7 +7,7 @@ PL-lang
   
 # PROBLEM
   W jednej z firm córek są 2 placówki w której w lecie na nocnej zmianie pracuje po jednej osobie.
-  Pewnego razy wydarzył się incydent że jeden z pracowników miał zawał i leżał bez pomocy aż do 6 rano aż przyszedł nastepny pracownik.
+  Pewnego razu wydarzył się incydent że jeden z pracowników miał zawał i leżał bez pomocy aż do 6 rano aż przyszedł nastepny pracownik.
   
 # ROZWIĄZANIE
   Aplikacja w telefonie która wyświetla co 30 min monit z komunikatem "Czy wszystko OK?", alarmem dźwiękowym i stoperem odmierzającym 5 minut na zatwierdzenie że wszystko jest ok.
